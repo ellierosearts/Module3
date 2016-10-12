@@ -38,6 +38,7 @@ background-image: url("http://66.media.tumblr.com/4ad3ae296bab1b3bace55450eeb2c6
 #cherry {
 	float: left;
 	margin-left: 20px;
+	margin-right: 20px;
 }
 #text {
 	border: 1px solid #111111;
