@@ -38,8 +38,8 @@ background-image: url("http://66.media.tumblr.com/4ad3ae296bab1b3bace55450eeb2c6
 #text {
 	box-sizing: border-box;
 	border: 1px;
-	padding: 2;
-	margin: 2;
+	padding: 2px;
+	margin: 2px;
 	overflow: auto;
 	float: left;
 }
