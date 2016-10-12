@@ -1,9 +1,36 @@
 body {font-family: arial, sans-serif;
 	background-color: #949494;
 }
-h1 {font-size: 72;
+#header-nav {
+	background-color: #6451a2;
+	border-radius: 0;
+	border: 0;
+}
+#logo-img {
+	background: url(https://67.media.tumblr.com/9d443daf21f206657f7aa68e46c88db1/tumblr_o8a0a6eeyg1tsx1g4o1_1280.jpg) no-repeat;
+	width: 50px;
+	margin: 10px 15px 10px 0;
+}
+.navbar-brand {
+	padding-top: 25px;
+}
+.navbar-brand h1 {
+	font-family: arial, sans-serif;
+	color: #100f37;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-shadow: 2px 2px 2px #222
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: .75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+}
+h2 {font-size: 72;
 color: #ffffff;
 text-align: center;
-text-shadow: 2px 2px 2px #ffffff;
+text-shadow: 2px 2px 2px;
 background-image: url("http://66.media.tumblr.com/4ad3ae296bab1b3bace55450eeb2c636/tumblr_odyfjuuVsm1s7r0tjo1_1280.jpg");
 }
