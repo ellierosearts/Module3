@@ -9,6 +9,7 @@ body {font-family: arial, sans-serif;
 #logo-img {
 	background: url(https://67.media.tumblr.com/9d443daf21f206657f7aa68e46c88db1/tumblr_o8a0a6eeyg1tsx1g4o1_1280.jpg) no-repeat;
 	width: 50px;
+	height: 50px;
 	margin: 10px 15px 10px 0;
 }
 .navbar-brand {
