@@ -32,13 +32,13 @@ body {font-family: arial, sans-serif;
 h2 {font-size: 72;
 color: #ffffff;
 text-align: center;
-text-shadow: 2px 2px 2px;
+text-shadow: 1px 1px 1px #111111;
 background-image: url("http://66.media.tumblr.com/4ad3ae296bab1b3bace55450eeb2c636/tumblr_odyfjuuVsm1s7r0tjo1_1280.jpg");
 }
 #text {
-	border: 1px solid #ffffff;
+	border: 1px solid #111111;
 	width: 800px;
 	overflow: auto;
-	float: left;
+	float: right;
 	margin-left: 20px;
 }
