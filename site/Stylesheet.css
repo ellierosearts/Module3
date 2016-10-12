@@ -36,10 +36,9 @@ text-shadow: 2px 2px 2px;
 background-image: url("http://66.media.tumblr.com/4ad3ae296bab1b3bace55450eeb2c636/tumblr_odyfjuuVsm1s7r0tjo1_1280.jpg");
 }
 #text {
-	box-sizing: border-box;
-	border: 1px;
-	padding: 2px;
-	margin: 2px;
+	border: 1px solid #ffffff;
+	width: 800px;
 	overflow: auto;
 	float: left;
+	margin-left: 20px;
 }
