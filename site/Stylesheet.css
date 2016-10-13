@@ -35,6 +35,31 @@ text-align: center;
 text-shadow: 1px 1px 1px #111111;
 background-image: url("http://66.media.tumblr.com/4ad3ae296bab1b3bace55450eeb2c636/tumblr_odyfjuuVsm1s7r0tjo1_1280.jpg");
 }
+#nav-list {
+	margin-top: 10px;
+}
+#nav-list a {
+	color: #100f37;
+	text-align: center;
+}
+#nav-list a:hover {
+	background: #e6e6e6;
+}
+#nav-list a span {
+	font-size: 1.8em;
+}
+#phone {
+	margin-top: 5px;
+}
+#phone a { /*Phone number */
+	text-align: right;
+	padding-bottom: 0;
+}
+#phone div { /*we deliver */
+	color: #111111;
+	text-align: right;
+	padding-right: 15px;
+}
 #cherry {
 	float: left;
 	margin-left: 20px;
