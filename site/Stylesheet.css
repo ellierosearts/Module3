@@ -60,6 +60,13 @@ background-image: url("http://66.media.tumblr.com/4ad3ae296bab1b3bace55450eeb2c6
 	text-align: right;
 	padding-right: 15px;
 }
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+	border: 1px solid #100f37;
+}
+.navbar-header button.navbar-toggle {
+	clear: both;
+	margin-top: -30px;
+}
 #cherry {
 	float: left;
 	margin-left: 20px;
