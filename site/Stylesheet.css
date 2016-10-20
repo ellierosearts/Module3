@@ -76,6 +76,14 @@ background-image: url("http://66.media.tumblr.com/4ad3ae296bab1b3bace55450eeb2c6
 
  }
  @media (max-width: 767px){
+ 	.container .jumbotron {
+ 		margin-top: 30px;
+ 		padding: 0;
+ 	}
+ 	#menu-tile, #specials-tile {
+ 		width: 360px;
+ 		margin: 0 auto 15px;
+ 	}
  	
  }
  /* HOME PAGE */
