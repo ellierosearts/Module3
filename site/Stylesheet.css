@@ -81,7 +81,7 @@ background-image: url("http://66.media.tumblr.com/4ad3ae296bab1b3bace55450eeb2c6
  /* HOME PAGE */
  #menu-tile, #specials-tile, #map-tile {
  	height: 250px;
- 	width: 250px;
+ 	width: 100%;
  	margin-bottom: 15px;
  	position: relative;
  	border: 2px solid #FF0033;
