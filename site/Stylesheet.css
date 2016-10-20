@@ -78,6 +78,18 @@ background-image: url("http://66.media.tumblr.com/4ad3ae296bab1b3bace55450eeb2c6
  @media (max-width: 767px){
  	
  }
+ /* HOME PAGE */
+ #menu-tile, #specials-tile, #map-tile {
+ 	height: 250px;
+ 	width: 250px;
+ 	margin-bottom: 15px;
+ 	position: relative;
+ 	border: 2px solid #FF0C1F;
+ 	overflow: hidden;
+ }
+ #menu-tile:hover, #specials-tile:hover, #map-tile:hover {
+ 	box-shadow: 0 1px 5px 1px #cccccc;
+ }
 #cherry {
 	float: left;
 	margin-left: 20px;
